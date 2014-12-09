@@ -6,12 +6,17 @@
 """
 https://oj.leetcode.com/problems/max-points-on-a-line/
 
-Problem: Max Points on a Line 
+Problem: 
+Max Points on a Line 
 
-Description: Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.
+Description: 
+Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.
+
+Tags: Hash Table, Math
+
+Difficulty: Hard
 
 The Python model is:
-
 ---------------------------------
 # Definition for a point
 # class Point:
