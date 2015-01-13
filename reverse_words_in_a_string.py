@@ -38,8 +38,9 @@ class Solution:
 """
 
 def reverseWords(s):
-    li = s.split()
-    return ' '.join(reversed(li))
+    #li = s.split()
+    #return ' '.join(reversed(li))
+    return ' '.join(s.split()[::-1])
 
 if __name__ == '__main__':
     ss = ("the sky is blue",
